@@ -1,7 +1,7 @@
 {
   "name": "@joaovictor3g/cra-template",
   "main": "template.json",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "keywords": [
     "react",
     "create-react-app",
